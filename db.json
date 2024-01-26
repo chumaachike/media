@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "75db",
+      "name": "Cornelius Paucek"
+    },
+    {
+      "id": "4f48",
+      "name": "Bryan Streich III"
+    },
+    {
+      "id": "c044",
+      "name": "Mrs. Daniel Strosin"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": null
+    },
+    {
+      "id": "d7a4",
+      "userId": null,
+      "title": "Generic Frozen Chicken"
+    },
+    {
+      "id": "5d30",
+      "userId": null,
+      "title": "Fantastic Soft Ball"
+    },
+    {
+      "id": "dcc0",
+      "userId": null,
+      "title": "Generic Granite Table"
+    },
+    {
+      "id": "d4eb",
+      "userId": null,
+      "title": "Tasty Wooden Pants"
+    },
+    {
+      "id": "e251",
+      "userId": "75db",
+      "title": "Incredible Soft Tuna"
+    },
+    {
+      "id": "843f",
+      "userId": "75db",
+      "title": "Elegant Steel Bacon"
+    },
+    {
+      "id": "71a5",
+      "userId": "4f48",
+      "title": "Tasty Cotton Mouse"
+    },
+    {
+      "id": "4118",
+      "userId": "75db",
+      "title": "Awesome Rubber Bacon"
+    },
+    {
+      "id": "526f",
+      "userId": "75db",
+      "title": "Small Frozen Chicken"
+    }
+  ],
+  "photos": [
+    {
+      "id": "1891",
+      "albumId": "e251",
+      "url": "https://loremflickr.com/150/150/abstract?lock=31945"
+    }
+  ]
+}
